@@ -1,6 +1,6 @@
 This repository contains Stellar Population Synthesis (SPS) templates ready to use with the full-spectrum and SED fitting code [pPXF](https://pypi.org/project/ppxf/) by [Cappellari (2023)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.3273C). 
 
-I am currently providing (with permission) ready-to-use template files for three SPSs. Please cite the paper below if you use them in your reasearch:
+I am currently providing (with permission) ready-to-use template files for three SPSs. Please cite the papers below if you use the SPS templates in your research:
 
 1. The [fsps v3.2](https://github.com/cconroy20/fsps) SPS model templates by
    [Conroy et al.
